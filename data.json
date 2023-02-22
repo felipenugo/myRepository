@@ -93,4 +93,41 @@
       "price": 5,
       "veg": false
     }
+     
+ 
+    
+    
+    "id": complementos,
+    
+    "name": "Cubo de Nuggets",
+    "img": "https://estaticos-cdn.sport.es/clip/ac4c2455-6745-4181-b69c-55d994a620b6_alta-libre-aspect-ratio_default_0.jpg";
+    
+    "name": "Patatas Medianas",
+    "img": "https://i.pinimg.com/736x/e4/88/be/e488beccd8b38bd334b750f7bd055cdd.jpg";
+    
+    "name": "Patatas Grandes"
+    "img": "https://www.cardamomo.news/__export/1613939362136/sites/debate/img/2021/02/21/whatsapp_image_2021-02-21_at_13_19_51_crop1613938827952.jpeg_1217713605.jpeg"
+    
+    "name": "Ensalada"
+    "img": "https://www.gourmet.cl/wp-content/uploads/2016/09/Ensalada_C%C3%A9sar-web-553x458.jpg"
+    
+    
+    "name": ""
+    "img": "" 
+    
+    "name": ""
+    "img": "" 
+    
+    "name": ""
+    "img": "" 
+    
+    "name": ""
+    "img": "" 
+    
+    "name": ""
+    "img": "" 
+    
+    "name": ""
+    "img": "" 
+  
 ]
